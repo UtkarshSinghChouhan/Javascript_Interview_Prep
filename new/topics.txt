@@ -1,0 +1,40 @@
+- Topics
+    - var let const (temporal dead zone | shadowing) (Roadside coder) ✅
+    - Hoisting (Roadside coder)  ✅
+    - Functions in Javascript - First class Citizen (Roadside coder) ✅
+    - Spread vs Rest Operator
+
+    - CLOSURE ✅
+    - once() method implementation ✅
+    - Memoization ✅
+    - Debounce ✅
+    - Throttle  ✅
+    - Debouncing vs throttling  ✅
+    - setTimeout(), setInterval() ✅
+    - Recursion ✅
+    - this keyword - behaviour with arrow function and normal function. ✅
+    - Prototype and Prototypal Inheritance ✅
+    - call, apply and bind methods ✅
+    - Polyfills for bind method ✅
+    - Polyfills - map filter reduce methods ✅
+
+    - Date object Date.now()
+    - Events and EventListeners in Javascript resize, onClick, onKeyDown
+    - Event Delegation (Event Bubbbling and Event Capturing)
+    - DOM Manipulation 
+        - Making a star rating system
+        - Making a stop watch
+
+    - JS Engine [Lydia Hallie Video]
+    - Asyncronous behaviour of JS
+    - promises [Lydia Hayllie Video]
+
+    - Class and Objects
+    - Every thing is an object in Javascript
+    - Local storage and Session Storage
+
+- Do Leetcode/Hacker Rank Javascript Questions
+
+- Watch Javascript Interview on Youtube
+
+- Do Lydia Hayllie MCQ
