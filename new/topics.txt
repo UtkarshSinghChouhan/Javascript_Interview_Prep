@@ -3,6 +3,7 @@
     - Hoisting (Roadside coder)  ✅
     - Functions in Javascript - First class Citizen (Roadside coder) ✅
     - Spread vs Rest Operator
+    - NaN
 
     - CLOSURE ✅
     - once() method implementation ✅
